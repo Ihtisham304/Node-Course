@@ -1,3 +1,3 @@
 # Node-Course
-this repository is all about learning node js
-for frontend react which i build in it it is MERN stack project 
+this repository is all about learning node js <br>
+for frontend react which i build in it <br> it is MERN stack project 
